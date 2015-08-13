@@ -65,5 +65,8 @@ The Data Controller reserves the right to make changes to this privacy policy at
 ###Information about this privacy policy
 The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
 
+
+--
 Latest update: August 13, 2015
+
 iubenda hosts this page and collects some personal data about users
